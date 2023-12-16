@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(orange,black);
+}
+h1{
+    color: orange;
+    font-family: jokerman;
+}
+.header img{
+border: green 20px solid;
+border-radius: 110px;
+}
+.img img{
+    width: 340px;
+    border: blue 5px solid;
+    background-image: radial-gradient(orange,blue);
+    border-radius: 15%;
+    box-shadow: 10px 15px 20px rgba(63,20,58,0.897);
+}
+.img{
+    float: left;
+    font-size: 100px;
+    margin-left: 100px;
+}
+.img p{
+    margin-bottom: -20px;
+    font-family: jokerman;
+    color: blue
+}
+.header1{
+    font-size: 50px;
+    font-family: jokerman;
+    color: red;
+}
+.songs p{
+    font-family: jokerman;
+    font-size: 20px;
+    color: limegreen;
+}
+.songs{
+    float: left;
+    margin-left: 109px;
+    border: 1px white solid;
+    border-radius: 20%;
+    box-shadow: 10px 15px 20px rgba(61, 20, 58, 0.897);
+    background-image: radial-gradient(black, orange);
+    padding: 12px;
+}
+.videos{
+float: left;
+margin-left: 131px;
+background-image: radial-gradient(green,orange);
+border: red 1px solid;
+box-shadow: 10px 15px 20px rgba(63, 29, 70, 0.836);
+}
+video{
+width: 300px;
+height: 400px;
+}
+.youtube{
+    float: left;
+    margin-top: 75px;
+}
+.youtube iframe{
+    margin-right: 30px;
+    margin-left: 30px;
+    border: lime 5px solid;
+    border-radius: 10%;
+    box-shadow: 20px 30px 40px rgba(63,20,58,0.897);
+}
+.videos p{
+    font-family: jokerman;
+    font-size: 40px;
+    color:blue;
+}
+nav{
+    display: flex;
+    float: right;
+
+}
+ul{
+    list-style: none;
+
+}
+li{
+    display: inline;
+padding-left: 20px;
+padding-right: 20px;
+margin-right: 160px;
+}

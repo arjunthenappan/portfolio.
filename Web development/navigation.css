@@ -1,0 +1,31 @@
+img{
+    width: 50px;
+    margin: 10px 10px;
+}
+.inline{
+    display: inline-block;
+}
+h5{
+    float: right;
+    margin-top: 25px;
+    font-size: 20px;
+}
+nav{
+    float: right;
+    margin-top: 25px;
+    font-size: 15px;
+}
+a{
+    padding: 10px 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+header{
+    box-shadow: 10px 15px 20px rgb(97, 81, 38);
+    background-color:rgba(166, 235, 75, 0.37)
+}
+a:hover{ 
+    transition: 0.5s ease-in-out;
+    color: orange;
+    text-shadow: 5px 5px 10px;
+}   

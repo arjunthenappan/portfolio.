@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(20, 188, 255);
+    text-align: center;
+}
+ul{
+list-style: square;
+list-style-position: inside;
+}
+ol{
+    list-style: upper-roman;
+    list-style-position: inside;
+}
+dl{
+    color: aliceblue
+}
+.images{
+width: 40px;
+height: 40px;
+}
+h3{
+    font-size: 29px;
+}

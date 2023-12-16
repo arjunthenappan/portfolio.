@@ -1,0 +1,22 @@
+table{
+    text-align: center;
+    font-family: jokerman;
+    color: aqua;
+    text-shadow: 2px 5px 5px;
+    width: 70%;
+    height: 40%;
+    margin-top: 20px;
+}
+th,td,table{
+    border: 5px seagreen solid;
+    padding: 5px;
+}
+body{
+    background-color: brown;
+    margin: 50px;
+}
+caption{
+    font-size: 50px;
+    font-family: Bradley hand ITC;
+    margin-bottom: 80px;
+}
